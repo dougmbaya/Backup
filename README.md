@@ -12,10 +12,13 @@ The programe work flow:
 * Print the information of your operation.
 
 
-## Version 1.1:
+### Version 1.1:
 > Change the naming mechanism of backup files.
 
 > Using the time as the name of backup files.
 
 > Using the date as the sub diretory of main backup directory
 
+
+### Version 1.2:
+> Add user comment for the backup file name.(it's easy to tell)
